@@ -1,0 +1,15 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    background-image:url(https://tse4.mm.bing.net/th?id=OIP.dJfwpmc903cnMd9h5HN-dQHaK6&pid=Api&P=0&w=103&h=153);
+   border-width:10px;
+   background-color: white;
+   border-style:ridge;
+   border-color:darkviolet;
+}
+
